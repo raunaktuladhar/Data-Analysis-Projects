@@ -1,6 +1,13 @@
 # Data-Science-Projects
 Here are some of the data analysis projects I have done by watching youtube tutorials.
 
+###### Tools Used:
+1. Visual Studio Code
+2. Jupyter NoteBook
+
+###### Technology Used:
+1. Python
+
 #### Youtube Channel: The iScale
 #### Link: https://www.youtube.com/@theiScale
 
