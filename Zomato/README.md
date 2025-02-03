@@ -1,8 +1,10 @@
 # 🍔 Zomato Data Analysis
 
+
 ## 📅 Project Overview
 
 This project analyzes **Zomato restaurant data** to understand customer preferences, restaurant ratings, and order trends. The goal is to extract insights that help food businesses and Zomato improve their services.
+
 
 ## 📚 Dataset
 
@@ -26,9 +28,11 @@ This project analyzes **Zomato restaurant data** to understand customer preferen
 
     - `offline_order` → Whether the restaurant accepts offline orders
 
+
 ## 🛠️ Tools & Libraries Used
 
 ✅ Python (Pandas, NumPy, Matplotlib, Seaborn)✅ Jupyter Notebook✅ Data Cleaning & Visualization
+
 
 ## 📊 Key Questions & Insights
 
@@ -56,6 +60,7 @@ Which type of restaurant received more offline orders?
 
 ✨ Dining has received the most offline orders.
 
+
 ## 👀 Visualizations
 
 Top 10 Most Rated Restaurants
@@ -63,6 +68,7 @@ Top 10 Most Rated Restaurants
 Rating Distribution
 
 Online vs Offline Order Ratings
+
 
 ## ⚡ How to Run the Project?
 
@@ -73,6 +79,7 @@ Clone the repository:
 Open the Jupyter Notebook:
 
  jupyter notebook zomato_project.ipynb
+
 
 ## 👤 Contact & Feedback
 
