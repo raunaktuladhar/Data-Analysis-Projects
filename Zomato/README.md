@@ -1,11 +1,11 @@
 # 🍔 Zomato Data Analysis
 
-<br>
+
 ## 📅 Project Overview
 
 This project analyzes **Zomato restaurant data** to understand customer preferences, restaurant ratings, and order trends. The goal is to extract insights that help food businesses and Zomato improve their services.
 
-<br>
+
 ## 📚 Dataset
 
 - Source: Zomato Restaurant Data
