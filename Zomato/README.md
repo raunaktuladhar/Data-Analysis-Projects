@@ -1,10 +1,12 @@
 # 🍔 Zomato Data Analysis
 
+<br>
 
 ## 📅 Project Overview
 
 This project analyzes **Zomato restaurant data** to understand customer preferences, restaurant ratings, and order trends. The goal is to extract insights that help food businesses and Zomato improve their services.
 
+<br>
 
 ## 📚 Dataset
 
@@ -65,6 +67,7 @@ This project analyzes **Zomato restaurant data** to understand customer preferen
     - Dining has received the most offline orders.
 
 <br>
+
 ## 👀 Visualizations
 
     - Top 10 Most Rated Restaurants
@@ -74,6 +77,7 @@ This project analyzes **Zomato restaurant data** to understand customer preferen
     - Online vs Offline Order Ratings
 
 <br>
+
 ## ⚡ How to Run the Project?
 
 1. Clone the repository:
