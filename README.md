@@ -9,8 +9,7 @@ Here are some of the data analysis projects I have done by watching YouTube tuto
 ## Technology Used:
 - Python
 
-## Youtube Channel:
-[The iScale](https://www.youtube.com/@theiScale)
+## Youtube Channel: [The iScale](https://www.youtube.com/@theiScale)
 
 ---
 
