@@ -57,7 +57,7 @@ This project analyzes **Zomato restaurant data** to understand customer preferen
 
 5. Which mode (online or offline) has received the maximum rating?
 
-    -Online orders have received higher ratings.
+    - Online orders have received higher ratings.
 
 6. Which type of restaurant received more offline orders?
 
