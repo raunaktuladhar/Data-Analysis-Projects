@@ -26,8 +26,8 @@ This project analyzes **Zomato restaurant data** to understand customer preferen
  
     - `listed_in(type)` → Types of restaurant
 
-
 <br>
+
 ## 🛠️ Tools & Libraries Used
 
     - Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -37,6 +37,7 @@ This project analyzes **Zomato restaurant data** to understand customer preferen
     - Data Cleaning & Visualization
 
 <br>
+
 ## 📊 Key Questions & Insights
 
 1. What type of restaurant do the majority of customers order from?
