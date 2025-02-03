@@ -31,7 +31,9 @@ This project analyzes **Zomato restaurant data** to understand customer preferen
 
 ## 🛠️ Tools & Libraries Used
 
-✅ Python (Pandas, NumPy, Matplotlib, Seaborn)✅ Jupyter Notebook✅ Data Cleaning & Visualization
+    - Python (Pandas, NumPy, Matplotlib, Seaborn)
+    - Jupyter Notebook
+    - Data Cleaning & Visualization
 
 
 ## 📊 Key Questions & Insights
