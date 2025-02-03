@@ -13,20 +13,19 @@ This project analyzes **Zomato restaurant data** to understand customer preferen
 - Columns:
 
     - `name` → Restaurant Name
+      
+    - `online_order` → Whether the restaurant accepts online orders or not
 
-    - `cuisine` → Type of Cuisine
+    - `book_table` → Whether the restaurant has booked the table or not
 
-    - `location` → City/Area
-
-    - `rating` → Customer Rating
+    - `rate` → Customer Rating
 
     - `votes` → Number of Reviews
 
-    - `price_range` → Cost Category (Low, Medium, High)
+    - `approx_cost(for two people)` → Approximate cost of order for two people(especially couples)
+ 
+    - `listed_in(type)` → Types of restaurant
 
-    - `online_order` → Whether the restaurant accepts online orders
-
-    - `offline_order` → Whether the restaurant accepts offline orders
 
 
 ## 🛠️ Tools & Libraries Used
@@ -40,51 +39,48 @@ This project analyzes **Zomato restaurant data** to understand customer preferen
 
 ## 📊 Key Questions & Insights
 
-What type of restaurant do the majority of customers order from?
+1. What type of restaurant do the majority of customers order from?
 
-✨ Dining is the most popular choice.
+    - Dining is the most popular choice.
 
-How many votes has each type of restaurant received from customers?
+2. How many votes has each type of restaurant received from customers?
 
-✨ Dining has received the most votes.
+    - Dining has received the most votes.
 
-What are the ratings that the majority of restaurants have received?
+3. What are the ratings that the majority of restaurants have received?
 
-✨ Most restaurants have ratings between 3.5 - 4.
+    - Most restaurants have ratings between 3.5 - 4.
 
-What is the average spending of couples ordering online?
+4. What is the average spending of couples ordering online?
 
-✨ The average spending is around 300.
+    - The average spending is around 300.
 
-Which mode (online or offline) has received the maximum rating?
+5. Which mode (online or offline) has received the maximum rating?
 
-✨ Online orders have received higher ratings.
+    -Online orders have received higher ratings.
 
-Which type of restaurant received more offline orders?
+6. Which type of restaurant received more offline orders?
 
-✨ Dining has received the most offline orders.
+    - Dining has received the most offline orders.
 
 
 ## 👀 Visualizations
 
-Top 10 Most Rated Restaurants
+    - Top 10 Most Rated Restaurants
 
-Rating Distribution
+    - Rating Distribution
 
-Online vs Offline Order Ratings
+    - Online vs Offline Order Ratings
 
 
 ## ⚡ How to Run the Project?
 
-Clone the repository:
+1. Clone the repository:
 
  git clone https://github.com/your-username/data-analysis-projects.git
 
-Open the Jupyter Notebook:
+2. Open the Jupyter Notebook:
 
  jupyter notebook zomato_project.ipynb
 
 
-## 👤 Contact & Feedback
-
-If you have any questions, feel free to reach out!📩 Email: [your-email@example.com]🔗 LinkedIn: Your LinkedIn Profile
