@@ -13,10 +13,11 @@ Here are some of the data analysis projects I have done by watching YouTube tuto
 ## Technology Used:
 - Python
 
+<br>
+
 ## Youtube Channel: [The iScale](https://www.youtube.com/@theiScale)
 
-<br>
----
+---<br>
 
 ### Project 1: Zomato Analysis
 In this project, I analyzed the data of Zomato (food delivery) by performing data preprocessing tasks, such as converting the datatype of the 'rate' column from '4.1/5' to '4.1' only. I also visualized the data using graphs.
