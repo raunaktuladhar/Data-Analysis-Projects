@@ -1,23 +1,34 @@
 # Data-Science-Projects
-Here are some of the data analysis projects I have done by watching youtube tutorials.
 
-###### Tools Used:
-1. Visual Studio Code
-2. Jupyter NoteBook
+Here are some of the data analysis projects I have done by watching YouTube tutorials.
 
-###### Technology Used:
-1. Python
+## Tools Used:
+- Visual Studio Code
+- Jupyter Notebook
 
-#### Youtube Channel: The iScale
-#### Link: https://www.youtube.com/@theiScale
+## Technology Used:
+- Python
+
+## Youtube Channel:
+[The iScale](https://www.youtube.com/@theiScale)
+
+---
 
 ### Project 1: Zomato Analysis
-I have analyzed the data of Zomato (food delivery) by performing `Data Preprocessing` like converting the datatype of column 'rate' from 4.1/5 to 4.1 only. I have even visualized the data in graphs. 
+In this project, I analyzed the data of Zomato (food delivery) by performing data preprocessing tasks, such as converting the datatype of the 'rate' column from '4.1/5' to '4.1' only. I also visualized the data using graphs.
 
-###### The tasks I performed:
+#### The tasks I performed:
+- Data cleaning and preprocessing
+- Visualized insights using graphs and charts
+- Performed exploratory data analysis (EDA)
+
+---
 
 ### Project 2: Netflix Movie Analysis
-I have analyzed the data of Netflix just like in Project 1 (Zomato Analysis) but it is a bit lengthy.
+In this project, I analyzed the data of Netflix, similar to the Zomato analysis, but it was more extensive and involved deeper insights.
 
-###### The tasks I performed:
+#### The tasks I performed:
+- Data cleaning and preprocessing
+- Performed exploratory data analysis (EDA)
+- Visualized data to find trends in movies and TV shows
 
