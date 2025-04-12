@@ -1,9 +1,9 @@
 # 🎬 Netflix Movie Data Analysis
 
-##📅 Project Overview
+## 📅 Project Overview
 This project analyzes Netflix movie data to explore genre trends, movie ratings, and viewer preferences. The main objective is to extract insights that can help understand Netflix's content offerings and what engages viewers most.
 
-##📚 Dataset
+## 📚 Dataset
 
 **Source:** mymoviedb.csv (Netflix Movies Dataset)
 
