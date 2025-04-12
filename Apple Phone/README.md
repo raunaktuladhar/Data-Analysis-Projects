@@ -30,16 +30,16 @@ This project analyzes iPhone product sales data from Apple to gain insights into
 ## 📊 Key Questions & Insights
 
   1. Which iPhone product has received the most ratings?
-    - The iPhone with the highest ratings likely reflects high popularity and user satisfaction.
+      - The iPhone with the highest ratings likely reflects high popularity and user satisfaction.
 
   2. What is the average price of iPhones?
-    - Helps assess Apple's pricing strategy.
+      - Helps assess Apple's pricing strategy.
 
   3. Which products have the highest ratings and reviews combo?
-    - Shows the most trusted or hyped iPhones.
+      - Shows the most trusted or hyped iPhones.
 
   4. Are higher-rated iPhones more expensive?
-    - Analyzing the relationship between price and rating.
+      - Analyzing the relationship between price and rating.
 
 ## 👀 Visualizations
 
