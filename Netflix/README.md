@@ -32,10 +32,10 @@ This project analyzes Netflix movie data to explore genre trends, movie ratings,
 ## 📊 Key Questions & Insights
 
   1. What is the most frequent genre of movies released on Netflix?
-    - The most frequent genre of movies released on Netflix is 'Drama'.
+     - The most frequent genre of movies released on Netflix is 'Drama'.
 
   2. Which has highest votes in `Vote_Average` column?
-    - Average category has the highest votes in Vote_Average.
+     - Average category has the highest votes in Vote_Average.
 
   3. What movie got the highest popularity? What is it's genre?
      - The movie 'Spider-Man: No Way Home' has the highest popularity. It's genre is Action, Adventure and Science Fiction.
