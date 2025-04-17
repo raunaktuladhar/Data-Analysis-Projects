@@ -8,6 +8,9 @@
 
 ## 📚 Dataset
 
+* __Source:__ compressed_data.csv.gz (given above) (It is a zip file containing csv file for Airbnb)
+* __Columns:__
+
 <br>
 
 ## 🛠️ Tools & Libraries Used
