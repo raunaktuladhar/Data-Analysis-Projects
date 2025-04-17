@@ -13,15 +13,27 @@ This project analyzes iPhone product sales data from Apple to gain insights into
 
 **Columns:**
 
-  - `Product` → iPhone product name
+  - `Product Name` → Name of the product
 
-  - `Rating` → Customer rating out of 5
+  - `Product URL` → URL of the product
 
-  - `Number of Ratings` → Number of people who rated the product
+  - `Brand` → Brand of the product
 
-  - `Number of Reviews` → Number of customer reviews
+  - `Sale Price` → Selling price of the product
 
-  - `Price` → Product price in INR
+  - `Mrp` → Product price in INR
+
+  - `Discount Percentage` → Discount percentage of the product
+
+  - `Number Of Ratings` → Ratings of the products
+
+  - `Number Of Reviews` → Product price in INR
+
+  - `Upc` → Unique Product Code (ID for each mobile phone)
+
+  - `Star Rating` → Rating of the product out of 5
+
+  - `Ram` → RAM of the product
 
 <br>
 
