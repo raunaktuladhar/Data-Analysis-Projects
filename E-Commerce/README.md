@@ -11,7 +11,29 @@ This project performs data analytics on **e-commerce sales data** to extract val
 ## 📚 Dataset
 
 * __Source:__ Sample - Superstore.csv
+
 * __Columns:__
+    * `Row ID` -> Serial No.
+    * `Order ID` -> ID of the order
+    * `Order Date` -> Date of ordering
+    * `Ship Date` -> Date of shipping
+    * `Ship Mode` -> Type of shipping
+    * `Customer ID` -> ID of the customer
+    * `Customer Name` -> Name of the customer
+    * `Segment` -> Type of buyer
+    * `Country` -> Country Name
+    * `City` -> City of a country
+    * `State` -> State of a country
+    * `Postal Code` -> Code of an area for sending mails
+    * `Region` -> Area
+    * `Product ID` -> Id of the product
+    * `Category` -> Category of the product
+    * `Sub-Category` -> Sub-category of the product
+    * `Product Name` -> Name of the product
+    * `Sales` -> Total Sales
+    * `Quantity` -> Quantity of products brought
+    * `Discount` -> Discount for the purchased product
+    * `Profit` -> Profit earned
 
 <br>
 
