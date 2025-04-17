@@ -1,28 +1,24 @@
-# Data-Science-Projects
+# 📈 Data-Science-Projects
 
 Here are some of the data analysis projects I have done by watching YouTube tutorials.
 
 <br>
 
-## Tools Used:
-- Visual Studio Code
-- Jupyter Notebook
+## 🛠️ Tools & Libraries Used:
+1. Python (Pandas, NumPy, Seaborn, Plotly, Matplotlib)
+2. Jupyter Notebook
+3. Visual Studio Code
 
 <br>
 
-## Technology Used:
-- Python
+## ▶ Youtube Channel: [The iScale](https://www.youtube.com/@theiScale)
 
 <br>
 
-## Youtube Channel: [The iScale](https://www.youtube.com/@theiScale)
-
-<br>
-
-### Project 1: Zomato Analysis
+### 🍔 Project 1: Zomato Analysis
 In this project, I analyzed the data of Zomato. It included their ratings, votes received by customers, etc.
 
-#### I analyzed:
+#### 👨‍💻 I analyzed:
 
 1. What type of restaurant did the majority of customers ordered from?
 2. How many votes had each type of restaurant received from customers?
@@ -33,10 +29,10 @@ In this project, I analyzed the data of Zomato. It included their ratings, votes
 
 <br>
 
-### Project 2: Netflix Movie Analysis
+### 🎬 Project 2: Netflix Movie Analysis
 In this project, I analyzed the data of Netflix. It included genre of the movies, highly & lowly rated movies, etc.
 
-#### I analyzed:
+#### 👨‍💻 I analyzed:
 
 1. What was the most frequent genre of movies released on Netflix?
 2. Which had highest votes in Vote_Average column?
@@ -46,10 +42,10 @@ In this project, I analyzed the data of Netflix. It included genre of the movies
 
 <br>
 
-### Project 3: E-commerce Analysis
+### 🛒 Project 3: E-commerce Analysis
 In this project, I analyzed the data of different e-commerce website like their sales, monthly profits, etc.
 
-#### I analyzed:
+#### 👨‍💻 I analyzed:
 
 1. The monthly sales of store & identified which month had the highest sales & the lowest sales respectively.
 2. Analyzed the sales based on product categories & determined which category had the lowest sales & the highest sales respectively.
@@ -61,10 +57,10 @@ In this project, I analyzed the data of different e-commerce website like their 
 
 <br>
 
-### Project 4: Apple Phone Analysis
+### 📱 Project 4: Apple Phone Analysis
 In this project, I analyzed the data of iPhones that were the most & least expensive, highly & lowly rated, etc.
 
-#### I analyzed:
+#### 👨‍💻 I analyzed:
 
 1. What were the top 10 highest-rated iPhones on Flipkart in India?
 2. How many ratings did the highest rated iPhones on Flipkart had?
@@ -75,10 +71,10 @@ In this project, I analyzed the data of iPhones that were the most & least expen
 
 <br>
 
-### Project 5: Airbnb Analysis
+### 🛌 Project 5: Airbnb Analysis
 In this project, I analyzed the data of Airbnb. It included different room types and their reviews, distribution of listing prices, etc.
 
-#### I analyzed:
+#### 👨‍💻 I analyzed:
 
 1. What was the distribution of listing prices?
 2. How were different room types distributed?
