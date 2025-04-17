@@ -3,6 +3,7 @@
 <br>
 
 ## 📅 Project Overview
+This project analyzes Airbnb listing data to understand pricing trends, customer preferences, and location-based availability. The goal is to extract meaningful insights that can help hosts optimize their listings and guide Airbnb in enhancing the overall guest experience.
 
 <br>
 
