@@ -6,7 +6,6 @@ This project analyzes Netflix movie data to explore genre trends, movie ratings,
 <br><br>
 
 ## 📚 Dataset
-<br>
 
 **Source:** mymoviedb.csv (given above)
 
