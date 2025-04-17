@@ -31,8 +31,7 @@ In this project, I analyzed the data of Zomato. It included their ratings, votes
 5. Which mode (online or offline) had received the maximum rating?
 6. Which type of restaurant received more offline orders, so that Zomato can provide those customers with some good offers?
 
-<br><br>
-
+<br>
 
 ### Project 2: Netflix Movie Analysis
 In this project, I analyzed the data of Netflix. It included genre of the movies, highly & lowly rated movies, etc.
@@ -45,8 +44,7 @@ In this project, I analyzed the data of Netflix. It included genre of the movies
 4. Which movie had got the lowest popularity and what was it's genre?
 5. Which year had the most filmed movies?
 
-<br><br>
-
+<br>
 
 ### Project 3: E-commerce Analysis
 In this project, I analyzed the data of different e-commerce website like their sales, monthly profits, etc.
@@ -61,8 +59,7 @@ In this project, I analyzed the data of different e-commerce website like their 
 6. Analyzed the sales & profit by customer segment
 7. Analyzed the sales to profit ratio
 
-<br><br>
-
+<br>
 
 ### Project 4: Apple Phone Analysis
 In this project, I analyzed the data of iPhones that were the most & least expensive, highly & lowly rated, etc.
@@ -76,7 +73,7 @@ In this project, I analyzed the data of iPhones that were the most & least expen
 5. What was the relationship between the discount percentage and the no. of ratings of iPhones on Flipkart?
 6. Analyzed the least & the most expensive iPhones in the Indian Market, along with their specifications.   
 
-<br><br>
+<br>
 
 ### Project 5: Airbnb Analysis
 In this project, I analyzed the data of Airbnb. It included different room types and their reviews, distribution of listing prices, etc.
