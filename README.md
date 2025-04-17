@@ -22,8 +22,6 @@ Here are some of the data analysis projects I have done by watching YouTube tuto
 ### Project 1: Zomato Analysis
 In this project, I analyzed the data of Zomato. It included their ratings, votes received by customers, etc.
 
-<br>
-
 #### I analyzed:
 
 1. What type of restaurant did the majority of customers ordered from?
