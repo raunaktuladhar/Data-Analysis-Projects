@@ -32,11 +32,9 @@ This project analyzes **Zomato restaurant data** to understand customer preferen
 
 ## 🛠️ Tools & Libraries Used
 
-    - Python (Pandas, NumPy, Matplotlib, Seaborn)
-    
-    - Jupyter Notebook
-    
-    - Data Cleaning & Visualization
+1. Python (Pandas, Numpy, Matplotlib, Seaborn)
+2. Jupyter Notebook
+3. Visual Studio Code
 
 <br>
 
@@ -65,16 +63,6 @@ This project analyzes **Zomato restaurant data** to understand customer preferen
 6. Which type of restaurant received more offline orders?
 
     - Dining has received the most offline orders.
-
-<br>
-
-## 👀 Visualizations
-
-    - Top 10 Most Rated Restaurants
-
-    - Rating Distribution
-
-    - Online vs Offline Order Ratings
 
 <br>
 
