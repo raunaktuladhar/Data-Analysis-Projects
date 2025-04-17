@@ -1,96 +1,55 @@
-# E-Commerce Data Analysis
+# 🛒 E-Commerce Data Analysis
 
 <br>
 
-## Overview
+## 📅 Project Overview
 
 This project performs data analytics on **e-commerce sales data** to extract valuable insights. The analysis covers sales trends, profit analysis, and customer segmentation to aid business decision-making.
 
 <br>
 
-## Tasks
+## 📚 Dataset
 
-  - Calculate monthly sales and identify the highest and lowest sales months.
-
-  - Analyze sales by product categories and sub-categories.
-
-  - Determine the highest and lowest profit months.
-
-  - Analyze profit by category and sub-category.
-
-  - Examine sales and profit by customer segment.
-
-  - Calculate the sales-to-profit ratio.
+* __Source:__ Sample - Superstore.csv
+* __Columns:__
 
 <br>
 
-## Data Preprocessing
+## 🛠️ Tools & Libraries Used
 
-  - Convert date columns for accurate time-based analysis.
-  - Handle missing values and data inconsistencies.
-
-<br>
-
-## Features
-
-  - Data preprocessing and cleaning
-
-  - Exploratory Data Analysis (EDA)
-
-  - Sales and revenue trends visualization
-
-  - Customer segmentation
-
-  - Profitability analysis
+1. Python (Pandas, Plotly)
+2. Jupyter Notebook
+3. Visual Studio Code
 
 <br>
 
-## Requirements
+## 📊 Key Questions & Insights
 
-    - To run this notebook, you need the following dependencies:
-      `pip install pandas numpy matplotlib seaborn plotly jupyter` 
+1. You need to calculate monthly sales of store & identify which month had the highest sales & which month had the lowest sales.
+   * November had the highest whereas January had the lowest monthly sales respectively.
+     
+2. You need to analyze sales based on product categories & determine which category has the lowest sales & which category has the highest sales.
+   * Technology had the highest whereas Furniture had the lowest sales respectively.
+     
+3. The sales on analysis needs to be done based on sub-categories.
+   * Phones have the highest sales followed by Chairs, Storage, and so on.
+     
+4. You need to analyze the monthly profit from sales & determine which month had the highest profit.
+   * December month had the highest profit.
+     
+5. Analyze the profit by category & sub-category.
+    * In terms of Category, Technology had the highest profit followed by Office Supplies and Furniture.
+    * In terms of Sub-Category, Copiers had the highest profit followed by Phones, Accessories, and so on.
+      
+6. Analyze the sales & profit by customer segment.
+    * The highest sales & profit is provided from Consumer.
+      
+7. Analyze the sales to profit ratio.
+    * The highest sales to profit ratio is provided by Consumers.
 
-<br>
 
-## Usage
 
-1. Open the Jupyter Notebook:
 
-     - jupyter notebook "E-commerce data analysis.ipynb"
-
-2. Ensure that the dataset (`Sample - Superstore.csv`) is available in the working directory.
-
-3. Run the notebook cells sequentially.
-
-4. Analyze the insights and visualizations produced.
-
-<br>
-
-## Dataset
-
-The dataset used in this analysis contains e-commerce transaction records, including:
-
-  - Order details (date, category, sub-category, sales, profit, etc.)
-
-  - Customer segments
-
-  - Sales trends over time
-
-<br>
-
-## Insights
-
-Some key insights from this analysis include:
-
-  - Top-selling and least-selling product categories
-
-  - Best and worst performing months in terms of sales and profit
-
-  - Customer purchasing behavior by segment
-
-  - Sales-to-profit ratio for business optimization
-
-<br>
 
 
 
