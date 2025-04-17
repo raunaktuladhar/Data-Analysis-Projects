@@ -17,9 +17,7 @@ Here are some of the data analysis projects I have done by watching YouTube tuto
 
 ## Youtube Channel: [The iScale](https://www.youtube.com/@theiScale)
 
-<br>
---------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
-<br>
+<br><br>
 
 ### Project 1: Zomato Analysis
 In this project, I analyzed the data of Zomato (food delivery) by performing data preprocessing tasks, such as converting the datatype of the 'rate' column from '4.1/5' to '4.1' only. I also visualized the data using graphs.
@@ -31,9 +29,7 @@ In this project, I analyzed the data of Zomato (food delivery) by performing dat
 - Visualized insights using graphs and charts
 - Performed exploratory data analysis (EDA)
 
-<br>
---------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
-<br>
+<br><br>
 
 ### Project 2: Netflix Movie Analysis
 In this project, I analyzed the data of Netflix, similar to the Zomato analysis, but it was more extensive and involved deeper insights.
