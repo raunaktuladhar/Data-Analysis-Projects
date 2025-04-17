@@ -33,9 +33,11 @@ This project analyzes Netflix movie data to explore genre trends, movie ratings,
 
 ## 🛠️ Tools & Libraries Used
 
-  - Python (Pandas, NumPy, Matplotlib, Seaborn)
+1. Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-  - Jupyter Notebook
+2. Jupyter Notebook
+
+3. Visual Studio Code
 
 <br>
 
