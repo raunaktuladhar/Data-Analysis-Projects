@@ -10,9 +10,9 @@ This project analyzes **Zomato restaurant data** to understand customer preferen
 
 ## 📚 Dataset
 
-- Source: Zomato data .csv (given above)
+- **Source:** Zomato data .csv (given above)
 
-- Columns:
+- **Columns:**
 
     - `name` → Restaurant Name
       
