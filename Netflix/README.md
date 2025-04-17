@@ -1,11 +1,13 @@
 # 🎬 Netflix Movie Data Analysis
+<br>
 
 ## 📅 Project Overview
 This project analyzes Netflix movie data to explore genre trends, movie ratings, and viewer preferences. The main objective is to extract insights that can help understand Netflix's content offerings and what engages viewers most.
+<br>
 
 ## 📚 Dataset
-
-**Source:** mymoviedb.csv (Netflix Movies Dataset)
+<br>
+**Source:** mymoviedb.csv (given above)
 
 **Columns:**
 
@@ -21,13 +23,15 @@ This project analyzes Netflix movie data to explore genre trends, movie ratings,
 
   - `Year` → Year of Release
 
+<br>
+
 ## 🛠️ Tools & Libraries Used
 
   - Python (Pandas, NumPy, Matplotlib, Seaborn)
 
   - Jupyter Notebook
 
-  - Data Cleaning & Visualization Techniques
+<br>
 
 ## 📊 Key Questions & Insights
 
@@ -46,19 +50,4 @@ This project analyzes Netflix movie data to explore genre trends, movie ratings,
   5. Which year has the most filmed movies?
      - The year '2020' has the most filmed movies.
 
-## 👀 Visualizations
 
-  - Top Genres by Count
-
-  - Rating vs Votes Scatter Plot
-
-  - Average Movie Runtime by Genre
-
-  - Movie Releases Over the Years
-
-## ⚡ How to Run the Project?
-1. Clone the repository:
-   - git clone https://github.com/raunaktuladhar/data-analysis-projects.git
-  
-2. Open the Jupyter Notebook:
-   - jupyter notebook "Movie Data Analysis Netflix.ipynb"
