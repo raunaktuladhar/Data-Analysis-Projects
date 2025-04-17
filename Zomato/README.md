@@ -66,14 +66,3 @@ This project analyzes **Zomato restaurant data** to understand customer preferen
 
 <br>
 
-## ⚡ How to Run the Project?
-
-1. Clone the repository:
-
-     - git clone https://github.com/raunaktuladhar/data-analysis-projects.git
-
-2. Open the Jupyter Notebook:
-
-     - jupyter notebook zomato_project.ipynb
-
-
