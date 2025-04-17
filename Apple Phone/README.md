@@ -73,5 +73,5 @@ This project analyzes iPhone product sales data from Apple to gain insights into
    * More popular iPhones may get better discounts.
     
 6. Can you figure out the least & the most expensive iPhones in the Indian Market, along with their specifications?
-   * APPLE iPhone 12 Pro (Silver, 512 GB) was the most expensive and APPLE iPhone SE (White, 64 GB) was the least expensive iPhones in the Indian Market.
+   * APPLE iPhone 12 Pro (Silver, 512 GB) was the most expensive and APPLE iPhone SE (White, 64 GB) was the least expensive iPhones in the Indian Market. (Full specifications are given in ipynb file)
 
