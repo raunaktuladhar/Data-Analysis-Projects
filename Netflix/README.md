@@ -11,17 +11,23 @@ This project analyzes Netflix movie data to explore genre trends, movie ratings,
 
 **Columns:**
 
-  - `Title` → Movie Title
+  - `Release_Date` → Release date of a movie
 
-  - `Genre` → Genre of the Movie
+  - `Title` → Title of a movie
 
-  - `Runtime` → Duration of the Movie (in minutes)
+  - `Overview` → Briefing about the movie
 
-  - `Rating` → IMDb Rating
+  - `Popularity` → Rating of the movies
 
-  - `Votes` → Number of Votes/Reviews
+  - `Vote_Count` → No. of votes
 
-  - `Year` → Year of Release
+  - `Vote_Average` → Average no. of votes
+
+  - `Original_Language` → Language of the movies
+    
+  - `Genre` → Type of a Movie
+
+  - `Poster_Url` → Year of Release
 
 <br>
 
