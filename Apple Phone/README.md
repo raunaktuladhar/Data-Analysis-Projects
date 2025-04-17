@@ -1,7 +1,11 @@
 # 📱 iPhone Data Sales Analysis
 
+<br>
+
 ## 📅 Project Overview
 This project analyzes iPhone product sales data from Apple to gain insights into product pricing, ratings, and popularity. The main objective is to understand consumer behavior and evaluate Apple’s product performance across different categories.
+
+<br>
 
 ## 📚 Dataset
 
@@ -9,44 +13,43 @@ This project analyzes iPhone product sales data from Apple to gain insights into
 
 **Columns:**
 
-  - Product → iPhone product name
+  - `Product` → iPhone product name
 
-  - Rating → Customer rating out of 5
+  - `Rating` → Customer rating out of 5
 
-  - Number of Ratings → Number of people who rated the product
+  - `Number of Ratings` → Number of people who rated the product
 
-  - Number of Reviews → Number of customer reviews
+  - `Number of Reviews` → Number of customer reviews
 
-  - Price → Product price in INR
+  - `Price` → Product price in INR
+
+<br>
 
 ## 🛠️ Tools & Libraries Used
 
-  - Python (Pandas, NumPy, Matplotlib, Seaborn)
+1. Python (Pandas, Numpy, Plotly)
+2. Jupyter Notebook
+3. Visual Studio Code
 
-  - Jupyter Notebook
-
-  - Data Cleaning, Statistical Summary & Visualization
+<br>
 
 ## 📊 Key Questions & Insights
 
-  1. Which iPhone product has received the most ratings?
-      - The iPhone with the highest ratings likely reflects high popularity and user satisfaction.
+1. What are the top 10 highest-rated iPhones on Flipkart in India?
+   *
 
-  2. What is the average price of iPhones?
-      - Helps assess Apple's pricing strategy.
+2. How many ratings do the highest rated iPhones on Flipkart had?
+   *
 
-  3. Which products have the highest ratings and reviews combo?
-      - Shows the most trusted or hyped iPhones.
+3. Which iPhone has the highest no. of reviews on Flipkart?
+   *
+   
+4. What is the relationship between the sale price of iPhone and their ratings on Flipkart?
+   *
 
-  4. Are higher-rated iPhones more expensive?
-      - Analyzing the relationship between price and rating.
+5. What is the relationship between the discount percentage and the no. of ratings of iPhones on Flipkart?
+   *
+    
+6. Can you figure out the least & the most expensive iPhones in the Indian Market, along with their specifications?
+   *
 
-## 👀 Visualizations
-
-  - Rating Distribution of iPhones
-
-  - Ratings vs Price Scatter Plot
-
-  - Top 10 Most Reviewed iPhones
-
-  - Average Ratings by Product
