@@ -11,6 +11,32 @@ This project analyzes Airbnb listing data to understand pricing trends, customer
 
 * __Source:__ compressed_data.csv.gz (given above) (It is a zip file containing csv file for Airbnb)
 * __Columns:__
+    - `id` -> ID of the hotel
+    - `NAME` -> Name of the hotel
+    - `host id` -> ID of the host
+    - `host_identity_verified` -> Whether the identity of host is verified or not
+    - `host name` -> Name of the host
+    - `neighbourhood group` -> Group of neighbourhood
+    - `neighbourhood` -> Name of the neighbourhood
+    - `lat` -> latitude of the area
+    - `long` -> longitude of the area
+    - `country` -> Name of the country 
+    - `country code` -> Code of the country
+    - `instant_bookable` -> Whether the hotel is instantly bookable or not
+    - `cancellation_policy` -> Whether the cancellation policy is strict or not
+    - `room type` -> Types of room
+    - `Construction year` -> Year of Construction
+    - `price` -> Price of the hotel
+    - `service fee` -> Price of service fee
+    - `minimum nights` -> No. of nights that can be spent
+    - `number of reviews` -> Reviews given by the guests
+    - `last review` -> Date of recent review
+    - `reviews per month` -> Reviews getting per month
+    - `review rate number` -> Reviews out of 5
+    - `calculated host listings count` -> No. of host listings
+    - `availability 365` -> No. of availability days in a year
+    - `house_rules` -> Policy of the hotel
+    - `license` -> Not given for a reason
 
 <br>
 
