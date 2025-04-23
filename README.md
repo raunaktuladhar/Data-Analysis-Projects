@@ -66,3 +66,6 @@ Welcome to my collection of data analysis projects! These projects are based on 
 1. Clone this repo:
    ```bash
    git clone https://github.com/raunaktuladhar/Data-Analysis-Projects.git
+
+2. Open any project folder and launch the Jupyter Notebook.
+3. Ensure you have all required Python libraries installed.
